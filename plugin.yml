@@ -1,0 +1,10 @@
+name: DailyReport
+author: alvin0319
+main: DailyReport\DailyReport
+version: 1.0.0
+api: 4.0.0
+
+commands:
+  리포트:
+    description: 밴드에 리포트 글을 올리는 명령어.
+    permission: op
